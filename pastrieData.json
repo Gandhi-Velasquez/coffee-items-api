@@ -1,0 +1,95 @@
+{
+    "pastries": [
+      {
+        "id": 201,
+        "name": "Croissant",
+        "description": "A classic French pastry known for its flaky layers and buttery taste.",
+        "price": 2.50
+      },
+      {
+        "id": 202,
+        "name": "Danish Pastry",
+        "description": "A sweet and flaky pastry, often filled with fruit, cream cheese, or custard.",
+        "price": 3.00
+      },
+      {
+        "id": 203,
+        "name": "Cinnamon Roll",
+        "description": "A sweet roll with a cinnamon and sugar filling, topped with icing or glaze.",
+        "price": 3.50
+      },
+      {
+        "id": 204,
+        "name": "Chocolate Croissant",
+        "description": "A delightful twist on the classic croissant, filled with rich chocolate.",
+        "price": 3.00
+      },
+      {
+        "id": 205,
+        "name": "Blueberry Muffin",
+        "description": "A moist and flavorful muffin studded with fresh blueberries.",
+        "price": 2.75
+      },
+      {
+        "id": 206,
+        "name": "Apple Turnover",
+        "description": "A pastry filled with spiced apples, typically folded into a triangular shape.",
+        "price": 3.25
+      },
+      {
+        "id": 207,
+        "name": "Scone",
+        "description": "A British favorite, a crumbly and tender pastry often flavored with fruits or nuts.",
+        "price": 2.75
+      },
+      {
+        "id": 208,
+        "name": "Bagel with Cream Cheese",
+        "description": "A chewy bagel topped with a generous spread of cream cheese.",
+        "price": 2.50
+      },
+      {
+        "id": 209,
+        "name": "Almond Croissant",
+        "description": "A variation of the classic croissant, filled and topped with almond paste and sliced almonds.",
+        "price": 3.50
+      },
+      {
+        "id": 210,
+        "name": "Raspberry Danish",
+        "description": "A sweet and tangy pastry, filled with raspberry jam and cream cheese.",
+        "price": 3.25
+      },
+      {
+        "id": 211,
+        "name": "Pecan Sticky Bun",
+        "description": "A gooey and indulgent pastry with pecans, caramel, and cinnamon.",
+        "price": 4.00
+      },
+      {
+        "id": 212,
+        "name": "Chocolate Chip Cookie",
+        "description": "A classic cookie loaded with chocolate chips for a sweet treat.",
+        "price": 2.00
+      },
+      {
+        "id": 213,
+        "name": "Lemon Poppy Seed Muffin",
+        "description": "A light and citrusy muffin with the added crunch of poppy seeds.",
+        "price": 2.75
+      },
+      {
+        "id": 214,
+        "name": "Cheese Danish",
+        "description": "A delightful pastry filled with sweetened cream cheese and sometimes fruit.",
+        "price": 3.00
+      },
+      {
+        "id": 215,
+        "name": "Pain au Chocolat",
+        "description": "A French pastry similar to a chocolate croissant, filled with chocolate batons.",
+        "price": 3.50
+      }
+    ]
+  }
+  

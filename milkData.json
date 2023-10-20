@@ -1,0 +1,47 @@
+{
+    "milks": [
+      {
+        "id": 301,
+        "name": "Whole Milk",
+        "description": "Full-fat cow's milk",
+        "price": 0.75
+      },
+      {
+        "id": 303,
+        "name": "Almond Milk",
+        "description": "Plant-based milk made from almonds",
+        "price": 0.75
+      },
+      {
+        "id": 304,
+        "name": "Soy Milk",
+        "description": "Plant-based milk made from soybeans",
+        "price": 0.75
+      },
+      {
+        "id": 305,
+        "name": "Oat Milk",
+        "description": "Plant-based milk made from oats",
+        "price": 0.75
+      },
+      {
+        "id": 306,
+        "name": "Coconut Milk",
+        "description": "Plant-based milk made from coconuts",
+        "price": 0.75
+      },
+      {
+        "id": 307,
+        "name": "Cashew Milk",
+        "description": "Plant-based milk made from cashews",
+        "price": 0.75
+      },
+      {
+        "id": 310,
+        "name": "Lactose-Free Milk",
+        "description": "Cow's milk with reduced lactose content",
+        "price": 0.75
+      }
+    ]
+  }
+  

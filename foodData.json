@@ -1,0 +1,95 @@
+{
+    "foods": [
+      {
+        "id": 501,
+        "name": "Turkey and Avocado Sandwich",
+        "description": "Sliced turkey, avocado, lettuce, and tomato on whole grain bread",
+        "price": 8.50
+      },
+      {
+        "id": 502,
+        "name": "Caprese Panini",
+        "description": "Fresh mozzarella, tomato, and basil pesto on ciabatta bread",
+        "price": 9.00
+      },
+      {
+        "id": 503,
+        "name": "Chicken Caesar Wrap",
+        "description": "Grilled chicken, romaine lettuce, parmesan cheese, and Caesar dressing in a wrap",
+        "price": 9.50
+      },
+      {
+        "id": 504,
+        "name": "Vegetarian Hummus Wrap",
+        "description": "Hummus, roasted vegetables, feta cheese, and greens in a spinach wrap",
+        "price": 9.00
+      },
+      {
+        "id": 505,
+        "name": "BLT Sandwich",
+        "description": "Bacon, lettuce, and tomato with mayo on toasted sourdough bread",
+        "price": 8.50
+      },
+      {
+        "id": 506,
+        "name": "Tuna Salad Croissant",
+        "description": "Flaky croissant filled with tuna salad, lettuce, and tomato",
+        "price": 9.00
+      },
+      {
+        "id": 507,
+        "name": "Pesto Chicken Panini",
+        "description": "Grilled chicken, provolone cheese, and basil pesto on focaccia bread",
+        "price": 9.50
+      },
+      {
+        "id": 508,
+        "name": "Mediterranean Veggie Wrap",
+        "description": "Mixed vegetables, feta cheese, olives, and tzatziki sauce in a wrap",
+        "price": 9.00
+      },
+      {
+        "id": 509,
+        "name": "Ham and Swiss Croissant",
+        "description": "Sliced ham, Swiss cheese, and Dijon mustard on a buttery croissant",
+        "price": 9.50
+      },
+      {
+        "id": 510,
+        "name": "BBQ Pulled Pork Sandwich",
+        "description": "Slow-cooked pulled pork in BBQ sauce on a brioche bun",
+        "price": 10.00
+      },
+      {
+        "id": 511,
+        "name": "Vegan Falafel Wrap",
+        "description": "Crispy falafel, hummus, and tahini in a whole wheat wrap",
+        "price": 9.50
+      },
+      {
+        "id": 512,
+        "name": "Italian Submarine Sandwich",
+        "description": "Salami, ham, pepperoni, provolone cheese, and Italian dressing on a sub roll",
+        "price": 10.00
+      },
+      {
+        "id": 513,
+        "name": "Egg Salad Croissant",
+        "description": "Creamy egg salad with lettuce on a flaky croissant",
+        "price": 9.00
+      },
+      {
+        "id": 514,
+        "name": "Southwest Chicken Wrap",
+        "description": "Grilled chicken, black beans, corn, avocado, and chipotle mayo in a wrap",
+        "price": 10.00
+      },
+      {
+        "id": 515,
+        "name": "Smoked Salmon Bagel",
+        "description": "Smoked salmon, cream cheese, capers, and red onion on a bagel",
+        "price": 10.00
+      }
+    ]
+  }
+  

@@ -1,0 +1,185 @@
+{
+    "coffees": [
+      {
+        "id": 101,
+        "name": "Latte",
+        "description": "A classic coffee drink made with espresso and steamed milk, topped with a small amount of foam.",
+        "price": 5.00
+      },
+      {
+        "id": 102,
+        "name": "Cappuccino",
+        "description": "An Italian coffee drink that is traditionally composed of espresso, steamed milk, and foam.",
+        "price": 4.00
+      },
+      {
+        "id": 103,
+        "name": "Mocha",
+        "description": "A chocolate-flavored variant of a latte, often with whipped cream and chocolate shavings.",
+        "price": 5.50
+      },
+      {
+        "id": 104,
+        "name": "Americano",
+        "description": "A diluted espresso with hot water, resembling a drip coffee but with a different flavor profile.",
+        "price": 3.00
+      },
+      {
+        "id": 105,
+        "name": "Espresso",
+        "description": "A concentrated coffee beverage brewed by forcing hot water under pressure through finely-ground coffee.",
+        "price": 3.00
+      },
+      {
+        "id": 106,
+        "name": "Cold Brew",
+        "description": "Coffee brewed with cold water over an extended period, resulting in a smoother and less acidic taste.",
+        "price": 5.00
+      },
+      {
+        "id": 107,
+        "name": "Iced Latte",
+        "description": "Similar to a regular latte but served over ice for a refreshing experience.",
+        "price": 5.50
+      },
+      {
+        "id": 108,
+        "name": "Caramel Macchiato",
+        "description": "An espresso-based drink with steamed milk and vanilla syrup, topped with caramel drizzle.",
+        "price": 6.00
+      },
+      {
+        "id": 109,
+        "name": "Hazelnut Flavored Coffee",
+        "description": "Coffee flavored with the rich and nutty taste of hazelnut.",
+        "price": 4.50
+      },
+      {
+        "id": 110,
+        "name": "Vanilla Latte",
+        "description": "A latte with the sweet and comforting flavor of vanilla.",
+        "price": 5.50
+      },
+      {
+        "id": 111,
+        "name": "Flat White",
+        "description": "Similar to a latte but with a higher coffee-to-milk ratio, creating a velvety and strong flavor.",
+        "price": 4.50
+      },
+      {
+        "id": 112,
+        "name": "Affogato",
+        "description": "A dessert coffee made by pouring a shot of hot espresso over a scoop of vanilla ice cream.",
+        "price": 6.00
+      },
+      {
+        "id": 113,
+        "name": "Irish Coffee",
+        "description": "Coffee with a kick, made with hot coffee, Irish whiskey, and topped with cream.",
+        "price": 6.00
+      },
+      {
+        "id": 114,
+        "name": "Turkish Coffee",
+        "description": "A traditional method of brewing coffee in finely ground coffee beans and water, often with sugar.",
+        "price": 6.00
+      },
+      {
+        "id": 115,
+        "name": "Ristretto",
+        "description": "A short shot of espresso with a strong and concentrated flavor.",
+        "price": 3.50
+      },
+      {
+        "id": 116,
+        "name": "Maple Pecan Latte",
+        "description": "A latte flavored with the sweetness of maple syrup and the nuttiness of pecans.",
+        "price": 6.00
+      },
+      {
+        "id": 117,
+        "name": "Coconut Milk Mocha",
+        "description": "A mocha made with coconut milk for a dairy-free and tropical twist.",
+        "price": 5.50
+      },
+      {
+        "id": 118,
+        "name": "Chai Latte",
+        "description": "A spiced tea concentrate mixed with steamed milk for a warm and aromatic beverage.",
+        "price": 4.50
+      },
+      {
+        "id": 119,
+        "name": "White Chocolate Raspberry Mocha",
+        "description": "A mocha with the sweet combination of white chocolate and raspberry flavors.",
+        "price": 6.00
+      },
+      {
+        "id": 120,
+        "name": "Pumpkin Spice Latte",
+        "description": "A fall favorite, featuring pumpkin spice flavors in a latte with whipped cream on top.",
+        "price": 6.00
+      },
+      {
+        "id": 121,
+        "name": "Vietnamese Iced Coffee",
+        "description": "Strong coffee brewed over sweetened condensed milk, served over ice for a refreshing treat.",
+        "price": 4.50
+      },
+      {
+        "id": 122,
+        "name": "Macchiato",
+        "description": "An espresso with a small amount of milk, often flavored and topped with foam.",
+        "price": 5.50
+      },
+      {
+        "id": 123,
+        "name": "Cinnamon Dolce Latte",
+        "description": "A latte with the sweet and spicy flavors of cinnamon dolce syrup.",
+        "price": 5.50
+      },
+      {
+        "id": 124,
+        "name": "Peppermint Mocha",
+        "description": "A festive mocha with the cool and minty taste of peppermint.",
+        "price": 6.00
+      },
+      {
+        "id": 125,
+        "name": "Café au Lait",
+        "description": "A simple and classic coffee with equal parts brewed coffee and steamed milk.",
+        "price": 4.00
+      },
+      {
+        "id": 126,
+        "name": "Honey Lavender Latte",
+        "description": "A latte infused with the floral and sweet notes of honey and lavender.",
+        "price": 6.50
+      },
+      {
+        "id": 127,
+        "name": "Gingerbread Latte",
+        "description": "A festive latte with the warm and spicy flavors of gingerbread.",
+        "price": 6.00
+      },
+      {
+        "id": 128,
+        "name": "Almond Milk Cappuccino",
+        "description": "A cappuccino made with creamy almond milk for a nutty and dairy-free option.",
+        "price": 5.50
+      },
+      {
+        "id": 129,
+        "name": "Salted Caramel Cold Brew",
+        "description": "A cold brew coffee with the indulgent sweetness of salted caramel.",
+        "price": 6.00
+      },
+      {
+        "id": 130,
+        "name": "Matcha Green Tea Latte",
+        "description": "A latte made with vibrant matcha green tea powder for a unique and earthy flavor.",
+        "price": 6.00
+      }
+    ]
+  }
+  

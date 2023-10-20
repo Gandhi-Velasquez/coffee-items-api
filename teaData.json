@@ -1,0 +1,65 @@
+{
+    "teas": [
+      {
+        "id": 401,
+        "name": "Green Tea",
+        "description": "Unoxidized tea known for its fresh and grassy flavor",
+        "price": 2.50
+      },
+      {
+        "id": 402,
+        "name": "Earl Grey",
+        "description": "Black tea flavored with bergamot oil for a citrusy aroma",
+        "price": 3.00
+      },
+      {
+        "id": 403,
+        "name": "Chamomile",
+        "description": "Herbal tea made from dried chamomile flowers, known for its calming properties",
+        "price": 2.50
+      },
+      {
+        "id": 404,
+        "name": "Peppermint",
+        "description": "Herbal tea with a refreshing and minty flavor",
+        "price": 2.50
+      },
+      {
+        "id": 405,
+        "name": "Chai",
+        "description": "Spiced black tea often brewed with milk and sweetened",
+        "price": 3.50
+      },
+      {
+        "id": 406,
+        "name": "Hibiscus Tea",
+        "description": "Herbal tea made from dried hibiscus flowers, known for its vibrant color",
+        "price": 3.00
+      },
+      {
+        "id": 407,
+        "name": "White Tea",
+        "description": "Minimally processed tea with a delicate flavor profile",
+        "price": 3.00
+      },
+      {
+        "id": 408,
+        "name": "Oolong Tea",
+        "description": "Partially oxidized tea with flavor characteristics between green and black tea",
+        "price": 3.50
+      },
+      {
+        "id": 409,
+        "name": "Rooibos Tea",
+        "description": "Herbal tea from South Africa with a sweet and nutty flavor",
+        "price": 2.50
+      },
+      {
+        "id": 410,
+        "name": "Matcha Green Tea",
+        "description": "Powdered green tea with a rich and concentrated flavor",
+        "price": 4.00
+      }
+    ]
+  }
+  
