@@ -7,31 +7,31 @@ app.use(express.json())
 app.use(cors())
 
 async function getCoffees(req, res) {
-  const data = await require('./coffeeData.json')
+  const data = await require('./data/coffeeData.json')
   const coffeeItems = data.coffees
   res.json(coffeeItems)
 }
 
 async function getPastries(req, res) {
-  const data = await require('./pastrieData.json')
+  const data = await require('./data/pastrieData.json')
   const pastrieItems = data.pastries
   res.json(pastrieItems)
 }
 
 async function getMilks(req, res) {
-  const data = await require('./milkData.json')
+  const data = await require('./data/milkData.json')
   const milkItems = data.milks
   res.json(milkItems)
 }
 
 async function getTeas(req, res) {
-  const data = await require('./teaData.json')
+  const data = await require('./data/teaData.json')
   const teaItems = data.teas
   res.json(teaItems)
 }
 
 async function getFoods(req, res) {
-  const data = await require('./foodData.json')
+  const data = await require('./data/foodData.json')
   const foodItems = data.foods
   res.json(foodItems)
 }
