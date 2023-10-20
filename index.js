@@ -6,6 +6,10 @@ const app = express()
 app.use(express.json())
 app.use(cors())
 
+async function loadApi(req, res) {
+    res.json('Welcome to the Coffee Shop Items Api!')
+}
+
 async function getCoffees(req, res) {
   const data = await require('./data/coffeeData.json')
   const coffeeItems = data.coffees
@@ -36,6 +40,7 @@ async function getFoods(req, res) {
   res.json(foodItems)
 }
 
+app.get('/', loadApi)
 app.get('/coffees', getCoffees)
 app.get('/pastries', getPastries)
 app.get('/teas', getTeas)
